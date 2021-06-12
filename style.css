@@ -1,0 +1,20 @@
+body { 
+    background-color: black;
+    text-align: center;
+}
+
+.container{
+    background-color:orange;
+}
+.btn{
+    text-align:center;
+    text-transform:uppercase;
+    margin-bottom: 20px;
+    
+}
+.card{
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    visibility: hidden;
+}
